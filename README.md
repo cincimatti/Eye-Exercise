@@ -1,4 +1,4 @@
-#Eye Exercise ReadMe
+# Eye Exercise ReadMe
 ## JavaScript Eyes Exercise
 <img src= "eyes.png" width='100'>
 
