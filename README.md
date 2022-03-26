@@ -6,6 +6,13 @@ Eye Exercise
 DESCRIPTION:
 A graphical application that looks like eyes that track mouse movements.
 
+HOW TO RUN:
+The software is hosted on github here https://github.com/cincimatti/Eye-Exercise.
+It can be reached at https://cincimatti.github.io/Eye-Exercise/ for live demonstrations.
+
+ROADMAP:
+1.) ROADMAPPED FEATURES: No additioanl features are roadmapped at this time.
+
 OPERATING INSTRUCTIONS:
 The application is intended as a learning exercise that leverages HTML, CSS, and Javascript. 
 While the HTML is used to structure the elements on the page, the CSS is used to style the page. 
