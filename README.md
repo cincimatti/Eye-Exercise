@@ -1,7 +1,10 @@
 #Eye Exercise ReadMe
+## JavaScript Eyes Exercise
+<img src= "eyes.png" width='100'>
+
 
 TITLE:
-Eye Exercise 
+Moving Eye Exercise 
 
 DESCRIPTION:
 A graphical application that looks like eyes that track mouse movements.
